@@ -18,9 +18,9 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Víctor Martínez Gómez's personal page
 baseurl: /mm-remote-theme-test
-url: https://mmistakes.github.io
-twitter_username: mmistakes
-github_username: mmistakes
+url: https://fvictor.github.io
+twitter_username: victormg_ml
+github_username: fvictor
 minimal_mistakes_skin: default
 
 # Build settings
