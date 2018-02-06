@@ -1,13 +1,27 @@
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "neon"
 
 # Site Author
 author:
   name             : "Víctor Martínez Gómez"
-  avatar           : "/assets/images/bio-photo.jpg"
+ # avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am a researcher at the the Department of Computer Science and Artificial Intelligence at the University of Granada, Spain. My research interests include networks analysis, data mining, machine learning and deep learning."
   location         : "Granada, Andalusia, Spain"
   email            : "victormartinezgomez1989@gmail.com"
   github           : "https://github.com/fvictor/"
   linkedin         : "victor-martinez-gomez-b6846728"
   twitter          : "https://twitter.com/victormg_ml"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: false
