@@ -47,6 +47,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD student in Computer Science, interested in data mining, machine learning, and artificial intelligence."
   email  : "victormartinezgomez1989@gmail.com"
+  github : "fvictor"
+  linkedin: "victor-martinez-gomez-b6846728"
+  twitter: "victormg_ml"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
