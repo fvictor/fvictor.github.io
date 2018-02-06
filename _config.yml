@@ -1,4 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "neon"
+
 name: "Víctor Martínez Gómez"
 
 author:
