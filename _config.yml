@@ -22,8 +22,6 @@ url: https://fvictor.github.io
 twitter_username: victormg_ml
 github_username: fvictor
 minimal_mistakes_skin: default
-header:
-  image: /assets/images/header.jpg
 
 
 # Build settings
@@ -73,6 +71,8 @@ defaults:
       type: posts
     values:
       layout: single
+      header:
+        image: /assets/images/header.jpg
       author_profile: true
       read_time: true
       comments: false
