@@ -1,3 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes"
 name: "Víctor Martínez Gómez"
-description: "I am a Computer Science Ph.D. student at University of Granada. I am focused on data mining, network analysis, machine learning, and artificial intelligence"
+
+author:
+  name   : "Víctor Martínez Gómez"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "I am a Computer Science Ph.D. student at University of Granada. I am focused on data mining, network analysis, machine learning, and artificial intelligence."
+  email  : "victormartinezgomez1989@gmail.com"
