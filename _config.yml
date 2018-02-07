@@ -13,11 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Víctor Martínez Gómez's personal website
+title: "Víctor Martínez Gómez"
 email:
-description: 
+description: >- # this means to ignore newlines until "baseurl:"
+  Víctor Martínez Gómez's personal page
 baseurl: 
 url: https://fvictor.github.io
+twitter_username: victormg_ml
+github_username: fvictor
 minimal_mistakes_skin: default
 
 
@@ -33,21 +36,25 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-remote-theme
 
 author:
   name   : "Víctor Martínez Gómez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in Computer Science, interested in data mining, machine learning, and artificial intelligence."
+  bio    :  "PhD student in Computer Science, interested in data mining, machine learning, and artificial intelligence."
   email  : "victormartinezgomez1989@gmail.com"
   github : "fvictor"
   linkedin: "victor-martinez-gomez-b6846728"
   twitter: "victormg_ml"
+
+include:
+  - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -68,7 +75,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
       share: true
