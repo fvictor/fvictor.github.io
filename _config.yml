@@ -51,6 +51,14 @@ author:
   github : "fvictor"
   linkedin: "victor-martinez-gomez-b6846728"
   twitter: "victormg_ml"
+  
+
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-113935577-1"
+
 
 include:
   - _pages
