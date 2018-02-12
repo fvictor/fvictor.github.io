@@ -8,6 +8,8 @@ comments: false
 
 I am a PhD student in the Department of Computer Science and Artificial Intelligence (DECSAI) at the University of Granada, located in Spain. I am currently working with Fernando Berzal and Juan-Carlos Cubero on data mining over network data. I am interested in all the branches of data mining, pattern recognition, and artificial intelligence, specially in machine learning usign deep learning techniques.
 
+![](/assets/images/about_photo.jpg)
+
 In 2017, I worked four months as visiting researcher at the Data Science Institute (DSI) at the Imperial College London, where I learned and developed tools for large-scale data visualization.
 
 In 2014, I performed an internship at Real-Time Innovations (RTI), from March to September, where I worked in the development of a new template-based system for
