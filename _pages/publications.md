@@ -8,6 +8,7 @@ comments: false
 
 ## Journal Articles
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: A Survey of Link Prediction in Complex Networks. ACM Comput. Surv. 49(4): 69:1-69:33 (2017) [[link]](http://doi.acm.org/10.1145/3012704)
+* Carmen Navarro, Víctor Martínez, Armando Blanco, Carlos Cano; ProphTools: General prioritization tools for heterogeneous biological networks. GigaScience 6(12): 1–8 (2017) [[link]](https://academic.oup.com/gigascience/article/6/12/1/4656248)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: Adaptive degree penalization for link prediction. J. Comput. Science 13: 1-9 (2016) [[link]](https://www.sciencedirect.com/science/article/pii/S187775031530051X)
 * Víctor Martínez, Carmen Navarro, Carlos Cano, Waldo Fajardo, Armando Blanco: DrugNet: Network-based drug-disease prioritization by integrating heterogeneous data. Artificial Intelligence in Medicine 63(1): 41-49 (2015) [[link]](https://www.sciencedirect.com/science/article/pii/S0933365714001444)
 * Víctor Martínez, Carlos Cano, Armando Blanco: ProphNet: A generic prioritization method through propagation of information. BMC Bioinformatics 15(S-1): S5 (2014) [[link]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S1-S5)
