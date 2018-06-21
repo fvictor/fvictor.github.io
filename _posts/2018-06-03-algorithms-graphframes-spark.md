@@ -74,7 +74,5 @@ Finally, we obtain the degree assortativity coefficient by computing the correla
 da_coeff = combined_degrees.corr('src_degree', 'dst_degree')
 {% endhighlight %}
 
-We have seen how easy it is to implement the degree assortativity coefficient. GraphFrame is also well suited for iterative graph algorithms, as we will see in the following session.
-
 ## Conclusions
 We just learned how to load a graph and perform some basic analytics. I will show how to implement iterative algorithms using GraphFrames in future posts. I hope you enjoyed it!
