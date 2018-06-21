@@ -1,7 +1,7 @@
 ---
 title: "Big Data Graph Analytics in Python Using GraphFrames for Apache Spark"
-date: 2018-06-03 00:00:00
-categories: networks, graphs, big data
+date: 2018-06-21 00:00:00
+tags: [Spark, GraphFrames, big data, network analytics]
 excerpt: "In this post, you will learn how to read a graph from a file and how to implement different graph algorithms using GraphFrames in PySpark."
 header:
   overlay_image: /assets/images/posts/graphframes/header.jpg
