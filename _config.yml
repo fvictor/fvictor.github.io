@@ -47,7 +47,7 @@ plugins:
 author:
   name   : "Víctor Martínez Gómez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    :  "PhD in data science. Currently, applied scientist at Amazon."
+  bio    :  "Applied scientist at Amazon."
   email  : "victormartinezgomez1989@gmail.com"
   github : "fvictor"
   linkedin: "victor-martinez-gomez"
@@ -79,15 +79,15 @@ words_per_minute: 100
 #   - vendor/gems/
 #   - vendor/ruby/
 
-defaults:
+#defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: false
+#      share: true
+#      related: false

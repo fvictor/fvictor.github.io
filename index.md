@@ -1,14 +1,17 @@
 ---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "About"
-permalink: /about/
+title: "About me"
 author_profile: true
-comments: false
+header:
+  image: "/assets/images/teaser.jpg"
 ---
 
-I am working as an applied scientist at Amazon since 2018. I am interested in all the branches of data science, pattern recognition, and artificial intelligence, specially in machine learning usign deep learning techniques.
 
-![](/assets/images/about_photo.jpg)
+
+I have been working as an applied scientist at Amazon since 2018. I am interested in all the branches of data science, pattern recognition, and artificial intelligence, especially in machine learning using deep learning techniques.
 
 Previously, from 2014 to 2018, I was doing a doctorate in the Department of Computer Science and Artificial Intelligence (DECSAI) at the University of Granada, located in Spain. I was working with Fernando Berzal and Juan-Carlos Cubero on data mining over network data.
 
