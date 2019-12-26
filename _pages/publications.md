@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## Journal Articles
+* Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: NOESIS: A Framework for Complex Network Data Analysis. Complexity. 1439415 (2019) [[link]](https://doi.org/10.1155/2019/1439415)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: A Survey of Link Prediction in Complex Networks. ACM Comput. Surv. 49(4): 69:1-69:33 (2017) [[link]](http://doi.acm.org/10.1145/3012704)
 * Carmen Navarro, Víctor Martínez, Armando Blanco, Carlos Cano; ProphTools: General prioritization tools for heterogeneous biological networks. GigaScience 6(12): 1–8 (2017) [[link]](https://academic.oup.com/gigascience/article/6/12/1/4656248)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: Adaptive degree penalization for link prediction. J. Comput. Science 13: 1-9 (2016) [[link]](https://www.sciencedirect.com/science/article/pii/S187775031530051X)
@@ -21,4 +22,3 @@ comments: false
 
 ## Informal and Other Publications
 * Víctor Martínez, Fernando Berzal, Juan C. Cubero: An Automorphic Distance Metric and its Application to Node Embedding for Role Mining. CoRR abs/1712.06979 (2017) [[link]](https://arxiv.org/abs/1712.06979)
-* Víctor Martínez, Fernando Berzal Galiano, Juan Carlos Cubero Talavera: The NOESIS Network-Oriented Exploration, Simulation, and Induction System. CoRR abs/1611.04810 (2016) [[link]](https://arxiv.org/abs/1611.04810)
