@@ -42,7 +42,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-include-cache
+  
 author:
   name   : "Víctor Martínez Gómez"
   avatar : "/assets/images/bio-photo.jpg"
