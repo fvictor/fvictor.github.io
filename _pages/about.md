@@ -6,9 +6,11 @@ author_profile: true
 comments: false
 ---
 
-I am a PhD student in the Department of Computer Science and Artificial Intelligence (DECSAI) at the University of Granada, located in Spain. I am currently working with Fernando Berzal and Juan-Carlos Cubero on data mining over network data. I am interested in all the branches of data mining, pattern recognition, and artificial intelligence, specially in machine learning usign deep learning techniques.
+I am working as an applied scientist at Amazon since 2018. I am interested in all the branches of data science, pattern recognition, and artificial intelligence, specially in machine learning usign deep learning techniques.
 
 ![](/assets/images/about_photo.jpg)
+
+Previously, from 2014 to 2018, I was doing a doctorate in the Department of Computer Science and Artificial Intelligence (DECSAI) at the University of Granada, located in Spain. I was working with Fernando Berzal and Juan-Carlos Cubero on data mining over network data.
 
 In 2017, I worked four months as visiting researcher at the Data Science Institute (DSI) at the Imperial College London, where I learned and developed tools for large-scale data visualization.
 
