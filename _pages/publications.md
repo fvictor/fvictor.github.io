@@ -7,6 +7,8 @@ comments: false
 ---
 
 ## Journal Articles
+
+* Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: Disambiguation of Semantic Relations Using Evidence Aggregation According to a Sense Inventory. IEEE Transactions on Knowledge and Data Engineering (2021) [[link]](https://doi.org/10.1109/TKDE.2021.3055621)
 * Víctor Martínez, Senaka Fernando, Miguel Molina-Solana, Yike Guo: TUORIS: A middleware for visualizing dynamic graphics in scalable resolution display environments. Future Generation Computer Systems 106: 559-571 (2019) [[link]](https://doi.org/10.1016/j.future.2020.01.015)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: NOESIS: A Framework for Complex Network Data Analysis. Complexity. 1439415 (2019) [[link]](https://doi.org/10.1155/2019/1439415)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: A Survey of Link Prediction in Complex Networks. ACM Comput. Surv. 49(4): 69:1-69:33 (2017) [[link]](http://doi.acm.org/10.1145/3012704)
