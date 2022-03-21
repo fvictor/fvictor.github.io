@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## Journal Articles
-
+* Víctor Martínez, Fernando Berzal, Juan C. Cubero: An Automorphic Distance Metric and Its Application to Node Embedding for Role Mining. Complexity (2021) [[link]](https://doi.org/10.1155/2021/5571006)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: Disambiguation of Semantic Relations Using Evidence Aggregation According to a Sense Inventory. IEEE Transactions on Knowledge and Data Engineering (2021) [[link]](https://doi.org/10.1109/TKDE.2021.3055621)
 * Víctor Martínez, Senaka Fernando, Miguel Molina-Solana, Yike Guo: TUORIS: A middleware for visualizing dynamic graphics in scalable resolution display environments. Future Generation Computer Systems 106: 559-571 (2019) [[link]](https://doi.org/10.1016/j.future.2020.01.015)
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: NOESIS: A Framework for Complex Network Data Analysis. Complexity. 1439415 (2019) [[link]](https://doi.org/10.1155/2019/1439415)
@@ -22,6 +22,3 @@ comments: false
 * Víctor Martínez, Fernando Berzal, Juan Carlos Cubero Talavera: The NOESIS Open Source Framework for Network Data Mining. KDIR 2015: 316-321 [[link]](http://ieeexplore.ieee.org/document/7526935/)
 * Víctor Martínez, Carmen Navarro, Carlos Cano, Armando Blanco: Network-based drug-disease relation prioritization using ProphNet. IWBBIO 2013: 629-636 [[link]](http://iwbbio.ugr.es/papers/iwbbio_102.pdf)
 * Víctor Martínez, Carlos Cano, Armando Blanco: Network-based gene-disease prioritization using PROPHNET. EMBnet.Journal 2012: 38-40, 18(B) [[link]](http://journal.embnet.org/index.php/embnetjournal/article/view/543)
-
-## Informal and Other Publications
-* Víctor Martínez, Fernando Berzal, Juan C. Cubero: An Automorphic Distance Metric and its Application to Node Embedding for Role Mining. CoRR abs/1712.06979 (2017) [[link]](https://arxiv.org/abs/1712.06979)
